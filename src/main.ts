@@ -1,6 +1,5 @@
-document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
+document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>
     sample text
   </div>
-`
-
+`;
